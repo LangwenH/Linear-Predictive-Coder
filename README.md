@@ -16,8 +16,9 @@ In communication systems it is often necessary to transmit audio(speech) signal 
 # How To Run
 ** Make sure MATLAB(latest version) is installed
 
-** Put both files in the same folder
+** Put both files(LPC.m with .mp3 file) in the same folder
  
 ** Open LPC.m file and run it. 
 
- 
+## Comments
+Different audio (.mp3) files can be coded/decoded by changing the input file name in the code.
