@@ -10,7 +10,14 @@ In communication systems it is often necessary to transmit audio(speech) signal 
  **Human voice modelled with all-pole filter.
 
 ** LPC parameters(filter coefficients, pitch, gain etc) extraction at the decoding phase.
->> Non-overlapping frames of 30 milliseconds in duration
->> 
+
+** Non-overlapping frames of 30 milliseconds in duration
+
+# How To Run
+** Make sure MATLAB(latest version) is installed
+
+** Put both files in the same folder
+ 
+** Open LPC.m file and run it. 
 
  
